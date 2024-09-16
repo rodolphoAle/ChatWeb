@@ -28,10 +28,10 @@ Mensagens são atualizadas em tempo real com tecnologia Socket.io.
 #### 5.	Gerenciamento de usuários: 
 É possível atualizar informações do usuário, como nome, avatar e senha.
 
-####6.	Exclusão de chats e mensagens: 
+#### 6.	Exclusão de chats e mensagens: 
 Usuários podem deletar mensagens específicas ou conversas inteiras.
 
-##Conjunto Bônus de Funcionalidades:
+## Conjunto Bônus de Funcionalidades:
 #### 1.	Sistema de status de usuário:
 Exibe o status do usuário (online/offline) e a última vez que ele esteve ativo.
 
