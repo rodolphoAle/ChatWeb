@@ -43,4 +43,9 @@ Alternar entre modos Dark e Light para uma melhor experiência de usuário.
 #### 4.	Alteração de avatar e nome em tempo real: 
 Ao alterar o avatar ou o nome, a mudança é refletida instantaneamente no chat.
 
-
+## Principais tecnologias
+#### 1. Next.js
+#### 2. TypeScript
+#### 3. Django (beckend)
+#### 4. Django Rest Framework para criar APIs RESTful
+#### 5. React, Tailwind CSS
